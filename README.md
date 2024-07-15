@@ -1,4 +1,4 @@
-# Desafio Esatgio Web
+# Desafio Estagio Web
 
 Este projeto foi desenvolvido utilizando o framework web Flask, em Python, em conjunto com as bibliotecas Bootstrap e DataTables para criar interfaces de usuário modernas e responsivas. O banco de dados MySQL foi gerenciado através do phpMyAdmin, utilizando o servidor XAMPP para facilitar a administração e o desenvolvimento.
 
